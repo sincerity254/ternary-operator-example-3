@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+
 int main() {
     
     // ternary operator ? = shorthand for if-else statement
@@ -13,4 +13,5 @@ printf("%s", (age > 18) ? "adult" : "child");
 
 
     return 0;
+
 }
