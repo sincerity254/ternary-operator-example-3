@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
     
@@ -15,3 +16,4 @@ printf("%s", (age > 18) ? "adult" : "child");
     return 0;
 
 }
+
